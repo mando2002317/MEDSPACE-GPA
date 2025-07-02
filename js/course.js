@@ -130,11 +130,11 @@ var courseUnits = [
           },
           {
             id: "CNS8",
-            name: "CNS Module",
+            name: "CNS",
           },
           {
             id: "END4",
-            name: "Endocrine Module",
+            name: "Endocrine",
           },
           {
             id: "ECE III1",
@@ -152,19 +152,19 @@ var courseUnits = [
         sem: "6",
         subs: [
           {
-            id: "SENG 31262",
-            name: "OPH Round",
+            id: "OPH6",
+            name: "OPH ",
           },
           {
-            id: "SENG 34222",
-            name: "ENT ROUND",
+            id: "ENT6",
+            name: "ENT ",
           },
           {
-            id: "SENG 34213",
+            id: "COM6",
             name: "Communitny",
           },
           {
-            id: "SENG 32216",
+            id: "INV3",
             name: "Investigation",
           },
         ],
@@ -179,19 +179,19 @@ var courseUnits = [
         subs: [
           {
             name: "PED I ",
-            id: "SENG 41212",
+            id: "PED6",
           },
           {
             name: "OBS ",
-            id: "SENG 41222",
+            id: "OBS6",
           },
           {
-            name: "Medicine",
-            id: "SENG 41233",
+            name: "Medicine I",
+            id: "MED 6",
           },
           {
             name: "Forensic & Toxocology",
-            id: "SENG 41242",
+            id: "FOM6",
           },
         ],
       },
@@ -200,15 +200,15 @@ var courseUnits = [
         subs: [
           {
             name: "PED II",
-            id: "SENG 42212",
+            id: "PED26",
           },
           {
-            name: "GYNA",
-            id: "SENG 43216",
+            name: "GYN",
+            id: "GY6",
           },
           {
             name: "Surgery I",
-            id: "SENG 42222",
+            id: "SUR 8",
           },
         ],
       },
