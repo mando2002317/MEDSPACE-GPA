@@ -160,7 +160,7 @@ var courseUnits = [
             name: "ENT ",
           },
           {
-            id: "COM6",
+            id: "COM5",
             name: "Communitny",
           },
           {
