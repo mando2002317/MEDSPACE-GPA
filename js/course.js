@@ -114,6 +114,10 @@ var courseUnits = [
             name: "Reproductive Module",
             id: "REP5",
           },
+             {
+            name: "ECE III",
+            id: "ECE1",
+          },
         ],
       },
     ],
@@ -138,7 +142,7 @@ var courseUnits = [
           },
           {
             id: "ECE III1",
-            name: "ECE III",
+            name: "ECE IV",
           },
           {
             id: "PSYII1",
