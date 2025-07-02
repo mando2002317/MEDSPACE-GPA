@@ -168,7 +168,7 @@ var courseUnits = [
             name: "Communitny",
           },
           {
-            id: "INV4",
+            id: "INV3",
             name: "Investigation",
           },
         ],
