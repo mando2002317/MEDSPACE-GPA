@@ -197,6 +197,10 @@ var courseUnits = [
             name: "Forensic & Toxocology",
             id: "FOM6",
           },
+            {
+            name: "Ethics",
+            id: "ETH1",
+          },
         ],
       },
       {
@@ -213,6 +217,10 @@ var courseUnits = [
           {
             name: "Surgery I",
             id: "SUR 8",
+          },
+          {
+            name: "Research and Methodology",
+            id: "RES2",
           },
         ],
       },
