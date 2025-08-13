@@ -137,7 +137,7 @@ var courseUnits = [
             name: "CNS",
           },
           {
-            id: "END4",
+            id: "END5",
             name: "Endocrine",
           },
           {
@@ -219,7 +219,7 @@ var courseUnits = [
             id: "SUR 8",
           },
           {
-            name: "Research and Methodology",
+            name: "Research & Methodology",
             id: "RES2",
           },
         ],
