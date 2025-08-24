@@ -222,6 +222,63 @@ var courseUnits = [
             name: "Research & Methodology",
             id: "RES2",
           },
+
+        ],
+      },
+    ],
+  },
+  {
+    year: "5",
+    sems: [
+      {
+        sem: "8",
+        subs: [
+          {
+            name: "Family Medicine ",
+            id: "FAM3",
+          },
+          {
+            name: "Medicine II ",
+            id: "MED7",
+          },
+          {
+            name: "Medicine III",
+            id: "MED7",
+          },
+          {
+            name: "Medicine IV",
+            id: "MED7",
+          },
+            {
+            name: "Psychaitry",
+            id: "PYS3",
+          },
+        ],
+      },
+      {
+        sem: "9",
+        subs: [
+          {
+            name: "Surgery II",
+            id: "SUR8",
+          },
+          {
+            name: "Surgery III",
+            id: "SUR8",
+          },
+          {
+            name: "Medical Professionalism And Communication Skills ",
+            id: "PRO1",
+          },
+        {
+            name: "Emergency And Trauma ",
+            id: "EM2",
+          },
+          {
+            name: "Research & Methodology",
+            id: "RES1",
+          },
+
         ],
       },
     ],
