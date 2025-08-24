@@ -61,7 +61,7 @@ var courseUnits = [
           },
           {
             name: "Professionalism",
-            id: "PRO2",
+            id: "PRO1",
           },
           {
             name: "ECE I",
