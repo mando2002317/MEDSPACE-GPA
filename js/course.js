@@ -243,7 +243,11 @@ var courseUnits = [
           },
           {
             name: "Medicine III",
-            id: "MED11",
+            id: "MED9",
+          },
+             {
+            name: "Medicine III",
+            id: "MED2",
           },
           {
             name: "Medicine IV",
@@ -264,7 +268,11 @@ var courseUnits = [
           },
           {
             name: "Surgery IV",
-            id: "SUR10",
+            id: "SUR8",
+          },
+           {
+            name: "Surgery IV",
+            id: "SUR2",
           },
           {
             name: "Medical Professionalism And Communication Skills ",
