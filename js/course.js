@@ -79,7 +79,7 @@ var courseUnits = [
         subs: [
           {
             name: "Muscloskeletal System II",
-            id: "MU4",
+            id: "MUS4",
           },
           {
             name: "Respiratory System",
@@ -243,11 +243,11 @@ var courseUnits = [
           },
           {
             name: "Medicine III",
-            id: "MED9",
+            id: "MED6",
           },
              {
             name: "Medicine III",
-            id: "MED2",
+            id: "MED5",
           },
           {
             name: "Medicine IV",
@@ -268,11 +268,11 @@ var courseUnits = [
           },
           {
             name: "Surgery IV",
-            id: "SUR8",
+            id: "SUR5",
           },
            {
             name: "Surgery IV",
-            id: "SUR2",
+            id: "SUR5",
           },
           {
             name: "Medical Professionalism And Communication Skills ",
