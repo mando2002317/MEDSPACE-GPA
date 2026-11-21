@@ -235,23 +235,19 @@ var courseUnits = [
         subs: [
           {
             name: "Family Medicine ",
-            id: "FAM3",
+            id: "FAM6",
           },
           {
             name: "Medicine II ",
-            id: "MED7",
+            id: "MED5",
           },
           {
             name: "Medicine III",
-            id: "MED7",
+            id: "MED11",
           },
           {
             name: "Medicine IV",
-            id: "MED7",
-          },
-            {
-            name: "Psychaitry",
-            id: "PYS3",
+            id: "MED6",
           },
         ],
       },
