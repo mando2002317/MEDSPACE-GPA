@@ -256,25 +256,24 @@ var courseUnits = [
         subs: [
           {
             name: "Surgery II",
-            id: "SUR8",
+            id: "SUR7",
           },
           {
             name: "Surgery III",
-            id: "SUR8",
+            id: "SUR6",
+          },
+          {
+            name: "Surgery IV",
+            id: "SUR10",
           },
           {
             name: "Medical Professionalism And Communication Skills ",
             id: "PRO1",
           },
-        {
-            name: "Emergency And Trauma ",
-            id: "EM2",
-          },
           {
             name: "Research & Methodology",
             id: "RES1",
           },
-
         ],
       },
     ],
